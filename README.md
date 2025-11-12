@@ -24,7 +24,7 @@
 
 ### 🌐 社交与开源足迹
 <p align="left">
-  <a href="https://github.com/2tina" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" /></a>
+  <a href="https://github.com/WebSafety-2tina" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" /></a>
   <a href="https://twitter.com/2tina" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" width="40" /></a>
   <a href="https://hackerrank.com/2tina" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" width="40" /></a>
 </p>
