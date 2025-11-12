@@ -1,4 +1,4 @@
-<img align="left" alt="2tina" width="180" src="https://raw.githubusercontent.com/Marco-zcl/Marco-zcl/master/2.jpg" style="border-radius:20px; margin-right:20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+<img align="right" alt="2tina" width="180" src="https://raw.githubusercontent.com/Marco-zcl/Marco-zcl/master/2.jpg" style="border-radius:20px; margin-right:20px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
 
 # 👋 Hi, I'm **2tina**
 
