@@ -1,70 +1,36 @@
-## Hello sir👋
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
-[![博客搭建交流群](https://img.shields.io/badge/QQ-red.svg "QQ")](https://wpa.qq.com/msgrd?v=3&uin=2229242816&site=qq&menu=yes&jumpflag=1 "QQ")
-[![Blog](https://img.shields.io/badge/Blog-red.svg "webkettle交流群")](https://blog.marcoweb.top "Blog")
-[![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gmail.com)](mailto:w2229242816@gmail.com)
----
+# Hi 👋, I'm 2tina
+
+### 一名充满热情的网络安全工程师与全栈开发者
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2tina&label=Profile views&color=0e75b6&style=flat" alt="2tina" /> </p>
+
+- 🔭 I'm currently working on **一个基于 MERN 技术栈的安全型 Web 架构项目**
+
+- 🌱 I'm currently learning **Python、Vue、PHP、Go、Rust、TypeScript、Node.js  Docker**
+
+- 👯 I'm looking to collaborate on **与网络安全自动化和 Web 开发相关的开源项目**
+
+- 🤝 I'm looking for help with **在系统设计与分布式架构方面的深入学习**
+
+- 💬 Ask me about **Web 安全、React、Node.js、后端优化与系统性能**
+
+- 📫 How to reach me **w2229242816@gmail.com**
+
+- ⚡ Fun fact **我能在开发与安全之间自由切换，既喜欢构建系统，也喜欢通过攻防思维让它们更强大。**
+
+- 👨‍💻 All of my projects are available at **[https://google.com](https://google.com)**
+
+- 📝 I regularly write articles on **[https://blong.com](https://blong.com)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/2tina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="2tina" height="30" width="40" /></a>
+<a href="https://twitter.com/2tina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2tina" height="30" width="40" /></a>
+<a href="https://hackerrank.com/2tina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2tina" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+
+
 <img align="right" alt="jpg" src="https://raw.githubusercontent.com/Marco-zcl/Marco-zcl/master/2.jpg" />
-
-### I'm Marco
-
-- A Computer engineering major& Program enthusiasts.
-- 🌱 I am currently studying in Henan, China.
-- 💬 If you are interested in me, you can visit the blog 
-- ⭐ You may like webketter, CSGO servers, servers....
-- ⚡ Interesting Fact: Miscellaneous📊
-
-### 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![WEB](https://img.shields.io/badge/-WEB-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### 开源项目
-- [使用和学习Python语言](https://github.com/WebSafety-2tina/Python-3.0)
-- [CSGO服务器插件支撑库](https://github.com/WebSafety-2tina/csgo)
-- [CTF使用脚本](https://github.com/WebSafety-2tina/CTF)
-- [文档程序](https://github.com/Marco-zcl/marco-zcl.github.io)
-- [程序存储](https://github.com/WebSafety-2tina/Software)
-- [RSA解密](https://github.com/WebSafety-2tina/RSA)
-- [luban客户端第三方](https://github.com/WebSafety-2tina/luban)
-- [PHP-Live-broadcast-room](https://github.com/WebSafety-2tina/PHP-Live-broadcast-room)
-- [正在开发中ing...](https://github.com/Marco-zcl)
-
-### 关于我
-- [技术笔记](2tina.top)
-
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [Marco](https://github.com/Marco-zcl/)
