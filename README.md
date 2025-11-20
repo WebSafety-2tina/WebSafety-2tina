@@ -52,10 +52,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2tina&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2tina&label=Profile%20Views&color=0e75b6&style=flat" alt="2tina" />
-</p>
